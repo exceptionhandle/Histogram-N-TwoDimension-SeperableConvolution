@@ -1,4 +1,4 @@
-Histogram-N-TwoDimension-SeperableConvolution
+Histogram-Equalization & TwoDimension-SeperableConvolution
 =============================================
 
 1. Contrast Enhancement using Histogram Equalization technique.
